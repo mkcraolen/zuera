@@ -23,3 +23,16 @@ color:white;
 	left:3%;
 	width:20%;
 }
+#tiamiria{
+	position: absolute;
+	width: 60%;
+	left: 20%;
+	top: 13%;
+}
+#tia{
+	position: absolute;
+	left: 36%;
+	top: 90%;
+	color: brown;
+	font-size: 30px; 
+}
