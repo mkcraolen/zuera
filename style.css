@@ -36,3 +36,15 @@ color:white;
 	color: brown;
 	font-size: 30px; 
 }
+
+#principal{
+	
+	background-color:black;
+	position:absolute;
+	left:10%;
+	top:12.1%;
+	width:80%;
+	opacity:0.9;
+		
+}
+
