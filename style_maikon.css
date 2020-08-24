@@ -52,4 +52,16 @@ color:white;
 	text-align:center;
 }
 
+#musica{
+position:absolute;
+height:300px;
+top:10%;
+width:40%;
+left:30%;
+z-index:3;
+border:solid 2px orange;
+outline:none;
+border-radius: 12px;
+}
+
 //digitar daqui pra baixo
