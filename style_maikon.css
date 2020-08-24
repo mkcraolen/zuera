@@ -14,6 +14,7 @@ color:white;
 	height:12%;
 	opacity:0.9;
 	border-bottom:solid 2px red;
+	z-index:9000;
 }
 
 #link{
